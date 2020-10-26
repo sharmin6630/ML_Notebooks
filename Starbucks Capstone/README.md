@@ -4,7 +4,7 @@ This is the final capstone project for the Udacity Machine Learning Engineer Nan
 
 The project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. 
 The goal of the project is to analyze this "historical" data in order to develop an algorithm that finds
-the most suiting offer type for each customer.
+the offers for customers that they are more likely to be completed in the given timeframe.
 
 The data is contained in three files:
 
