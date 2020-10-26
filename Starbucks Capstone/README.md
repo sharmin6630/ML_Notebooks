@@ -15,4 +15,4 @@ The data is contained in three files:
 
 
 Proposal review link :
-https://review.udacity.com/?utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_medium=email&utm_content=reviewsapp-submission-reviewed&bsft_clkid=269ab845-56a6-4097-9d3e-79712c14b34b&bsft_uid=87cd23dd-e08d-47d8-932e-f5ffd48611f0&bsft_mid=c4ecb6ea-1475-4636-bab2-859526489dc8&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=6ca56e56-bd35-485a-86dd-2c2feeaafe00&bsft_mime_type=html&bsft_ek=2020-10-12T16%3A41%3A10Z&bsft_aaid=affd8710-61ff-4001-baca-1d4a7303381d#!/reviews/2546252
+https://review.udacity.com/#!/reviews/2546252
